@@ -1,0 +1,198 @@
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Varela+Round&display=swap');
+
+body{
+	font-family: 'Roboto', sans-serif;
+	color: #FFFFFF;
+}
+
+
+.topnav {
+  background-color: #FFFFFF;
+  overflow: hidden;
+	
+}
+
+
+.topnav a {
+  float: right;
+  color: #1E1E1E;
+  text-align: right;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+
+.topnav a.active {
+  background-color: #FFFFFF;
+  color: #ECBC30;
+}
+
+
+#swape{
+	background-color: #09090d;
+	padding: 3%;
+}
+
+.pretitle{
+	color: #EDB44D;
+	font-size: 25px;
+	padding-top: 5%;
+}
+#swape h1{
+	font-size: 80px;
+	font-weight: 700;
+}
+
+button{
+	background-color: #2E2E2E;
+	border: 0;
+	color: aliceblue;
+	border-radius: 30px;
+	padding: 3%;
+	padding-left: 7%;
+	padding-right: 7%;
+	margin-top: 9%;
+}
+
+#features{
+	background-color: #101117;
+	text-align: center;
+}
+.subtitle{
+	font-size: 45px;
+	font-weight: 600;
+}
+#features p{
+	
+}
+.icon{
+	font-size: 40px;
+	color: #EDB44D;
+}
+
+
+
+#features h4{
+	padding-top: 7%;
+	text-align: left;
+}
+.textito{
+	font-size: 15px;
+}
+.circulo{
+	border-radius: 100px;
+	background-color: #EDB44D;
+	padding: 2%;
+	margin: 3%;
+	font-size: 35px;
+}
+
+#feature2{
+	background-color: #121520;
+	padding-top: 6%;
+}
+.textito2{
+	font-size: 12px;
+	text-align: right;
+}
+
+.left{
+	text-align: right;
+}
+.right{
+	text-align: left;
+}
+ .textito3{
+	font-size: 12px;
+	text-align: left;
+}
+
+#why{
+	background-color: #101117;
+	text-align: center;
+	padding: 5%;
+	padding-top: 8%;
+}
+
+#why p{
+	font-size: 15px;
+	text-align: left;
+}
+#why h4{
+	font-size: 35px;
+	text-align: left;
+	color: #EDB44D;
+	font-weight: 800;
+}
+#screenshots{
+	background-color: #101117;
+	text-align: center;
+	padding-top: 5%;
+}
+#screenshots h4{
+	color: #EDB44D;
+	font-family: 'Varela Round', sans-serif;
+}
+#testi{
+	background-color: #101117;
+	padding: 6%;
+}
+
+.imgredonda {
+    margin-top: 10%;
+    border-radius:150px;
+}
+.luis{
+	font-size: 10px;
+	padding-top: 3%;
+}
+
+#redes{
+	background-color:  #151721;
+	padding-top: 5%;
+	align-content: center;
+	text-align: center;
+	padding-bottom: 5%;
+}
+button .boton{
+	align-content: center;
+	background-color: aliceblue;
+}
+.btn{
+	background-color: #000000;
+	border-radius: 60px;
+	padding: 15px;
+	margin: 5%;
+	padding-right: 3%;
+	padding-left: 3%;
+}
+.red{
+	font-size: 25px;
+	padding-right: 3%;
+}
+
+#contact{
+	background-color: #151721;
+	padding: 5%;
+}
+.redes{
+	font-size: 50px;
+	text-align: center;
+}
+
+footer{
+	background-color: #040406;
+	color: #373946;
+	padding-top: 4%;
+	text-align: center;
+	padding-bottom: 1%
+}
